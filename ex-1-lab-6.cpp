@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class NumberUtils {
+class Operations {
 private:
     class Solution
     {
